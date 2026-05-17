@@ -10,6 +10,8 @@
 [![Lattice](https://img.shields.io/badge/-Lattice-000000?style=flat-square&labelColor=000000)](https://lattice-log.vercel.app)
 [![Claude Code](https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&labelColor=000000)](#)
 [![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&labelColor=000000)](#)
+[![Art & Philisophy](https://img.shields.io/badge/-Art & Philisophy-000000?style=flat-square&labelColor=000000)](#)
+
 
 </div>
 
