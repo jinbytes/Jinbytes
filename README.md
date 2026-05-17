@@ -38,8 +38,11 @@ A curated, ad-free aggregator for the Korean AI builder community. One surface f
 
 **In active build**
 - 🚧 Community phase — builder profiles, contributions, "trading card" identity
-- 🚧 Profile/nav redesign
+- 🚧 Lattice Mentral Framework (AI Atlas)
 - 🚧 Domain migration (`lattice.dev` / `.app` / `.kr` 검토 중)
+- 🚧 High-impact curation (i.e. Insights, Daily Brief, and etc)
+- 🚧 Platform for AI productivity 
+
 
 > *Lattice는 한국 AI 빌더를 위한 인프라입니다. 개발자도, 비개발자도, 한 자리에서.*
 
