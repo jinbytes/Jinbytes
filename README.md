@@ -10,8 +10,9 @@
 [![Lattice](https://img.shields.io/badge/-Lattice-000000?style=flat-square&labelColor=000000)](https://lattice-log.vercel.app)
 [![Claude Code](https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&labelColor=000000)](#)
 [![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&labelColor=000000)](#)
-[![Stock Market](https://img.shields.io/badge/-Stock Market-000000?style=flat-square&labelColor=000000)](#)
-
+[![Investing](https://img.shields.io/badge/-Investing-000000?style=flat-square&labelColor=000000)](#)
+[![Stock Market](https://img.shields.io/badge/-Stock_Market-000000?style=flat-square&labelColor=000000)](#)
+[![Quant Trading](https://img.shields.io/badge/-Quant_Trading-000000?style=flat-square&labelColor=000000)](#)
 
 </div>
 
@@ -40,11 +41,10 @@ A curated, ad-free aggregator for the Korean AI builder community. One surface f
 
 **In active build**
 - 🚧 Community phase — builder profiles, contributions, "trading card" identity
-- 🚧 Lattice Mentral Framework (AI Atlas)
-- 🚧 Domain migration (`lattice.dev` / `.app` / `.kr` 검토 중)
-- 🚧 High-impact curation (i.e. Insights, Daily Brief, and etc)
-- 🚧 Platform for AI productivity 
-
+- 🚧 Lattice AI Atlas 
+- 🚧 Choosing domain...
+- 🚧 Offline meet-ups + Study
+- 🚧 Curation 
 
 > *Lattice는 한국 AI 빌더를 위한 인프라입니다. 개발자도, 비개발자도, 한 자리에서.*
 
@@ -70,11 +70,11 @@ The community is the *signal layer* on top of Lattice's curation surface — wha
 
 ## About
 
-I sit at an unusual intersection — **institutional finance background** (all of the certifications + Master degree in the US.) meets **solo product builder** shipping TypeScript every day. Lattice is the thesis behind that hybrid: tools should compress decision-making for people who think in spreadsheets *and* people who think in code.
+I sit at an unusual intersection — **institutional finance background** meets **solo product builder** shipping TypeScript every day. Lattice is the thesis behind that hybrid: tools should compress decision-making for people who think in spreadsheets *and* people who think in code.
 
 7+ years across **private credit, real estate, and alternatives** at institutional shops across the world. Now spending those instincts on a different game — building infrastructure for Korea's AI builder ecosystem.
 
-Open to conversations with **indie hackers, MCP / Claude Code obsessives, AI native users, financial professionals, and folks experimenting with AI workflows**.
+Open to conversations with **indie hackers, MCP / Claude Code obsessives, financial professionals, and folks experimenting with AI workflows**.
 
 ---
 
@@ -121,10 +121,10 @@ Open to conversations with **indie hackers, MCP / Claude Code obsessives, AI nat
 
 ## Background
 
-**Finance** · 7+ years institutional buy-side & advisory
+**Finance** · 7+ years institutional buy-side & advisory + Prviate Equity (Mid-market)
 
 **Credentials**
-- **Everything you think of in Finance**
+- **All you can think of**
 - **Master of Finance in New York, US**
 
 ---
